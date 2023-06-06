@@ -9,7 +9,7 @@ Another simple, yet slightly more complex showcase of some basic languages learn
 
 ## [HOW TO RUN]
 
-Simply download the index.html file and open it up!
+Clone this repository, then open the index.html link!
 
 ## [FUTURE IMPROVEMENTS]
 
